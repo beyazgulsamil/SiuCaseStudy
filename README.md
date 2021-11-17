@@ -1,4 +1,4 @@
-# GetirCaseProject
+# SiuCaseProject
 
 ####Step 1: Select driver (Selenium Grid)
 >###### You can decide the which driver you are going to use by changing the "selenium grid" property from the test properties file.
